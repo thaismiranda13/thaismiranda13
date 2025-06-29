@@ -7,9 +7,9 @@
 **thaismiranda13/thaismiranda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :purple_heart: Sou estudante de Análise e Desenvolvimento de Sistemas. :sparkles:(2º Semestre):sparkles: 
+- :purple_heart: Sou estudante de Análise e Desenvolvimento de Sistemas. :sparkles:(3º Semestre):sparkles: 
 - :purple_heart: Atualmente estou em transição de carreira, da arquitetura para a área da Tecnologia!
-- :purple_heart: Sou candidata da Oracle Next Education.
+- :purple_heart: Sou aluna da Oracle Next Education.
 
 ## Estou aprendendo
 
